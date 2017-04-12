@@ -1,0 +1,1 @@
+[{"text":"'Texas become a state in the year (1845)'","makeMore":true},{"text":"'The (13th amendment) abolished slavery.'","makeMore":true},{"text":"'The (14th amendment) granted citizenship to African Americans","makeMore":false}]

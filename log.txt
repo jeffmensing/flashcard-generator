@@ -1,0 +1,1 @@
+[{"front":"Texas becomes 28th state of America in what year?","back":"1845","makeMore":true},{"front":"Spindletop: Beginning of oil industry in Texas","back":"1901","makeMore":true},{"front":"What amendment abolished slavery?","back":"13th Ammendment","makeMore":true},{"front":"Which ammendment are slaves are given citizenship?","back":"14th amendment","makeMore":false}]
